@@ -21,8 +21,23 @@
         <div class="below-top-bar">
             <h1>CV
             </h1>
-            <p>
+            <p>enter your the details of the company and the job you think i would suit and i will send my CV if i like i would like to work there
             </p>
+            <form id="contact_form" method="POST" enctype="multipart/form-data">
+			<div class="row">
+				<label for="name">Your company:</label><br />
+				<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+			</div>
+			<div class="row">
+				<label for="email">Your email:</label><br />
+				<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+			</div>
+			<div class="row">
+				<label for="message">Your message:</label><br />
+				<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+			</div>
+				<input id="submit_button" type="submit" value="Send email" />
+		</form>
         </div>    
     </body>
 </html>
