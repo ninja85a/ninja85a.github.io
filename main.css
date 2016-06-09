@@ -1,0 +1,44 @@
+body {
+    background-color:#333300;
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+}
+topbar {
+    width: 1000px;
+}
+.topbar a {
+    font-family: 'PT Sans Narrow';
+}
+nav {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    background-color: brown;
+    width: 80%;
+}
+nav img {
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 0px 0px;
+    text-decoration: none;
+    width: 15z0px;
+    height: 100px;
+}
+nav a {
+    font-family: 'PT Sans Narrow', sans-serif;
+    float: left;
+    color: bisque;
+    text-align: center;
+    padding: 20px 15px;
+    text-decoration: none;
+}
+nav a:hover:not(.active) {
+    background-color: crimson;
+}
+.below-top-bar {
+    background-color: azure;
+} 
