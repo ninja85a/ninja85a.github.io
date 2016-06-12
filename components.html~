@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>my website - hobbies</title>
+        <title>my website - components</title>
         <link rel="stylesheet" type="text/css" href="main.css">
         <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
     </head>
@@ -19,14 +19,17 @@
             </nav>
         </div>
         <div class="below-top-bar">
-            <h1>my hobbies
+            <h1>components
             </h1>
-            <p>these are the things I enjoy doing at home:</p>
+            <p>This is where I share the components of my pc build and what upgrades I'm planning to do to it.
+            </p>
             <ul>
-                <li>Playing games</li>
-                <li>Watching YouTube</li>
-                <li>Experimenting with Linux on my laptop</li>
-				<li>I enjoy watching a series called unforgotten realms on twitch and <a href="https://www.youtube.com/watch?v=qMsmQfxM5Z0">YouTube</a></li>
+                <li>CPU: FX 4130</li>
+                <li>Motherboard: Gigabyte GA-78LMT-USB3</li>
+                <li>gpu: sapphire r9 270</li>
+                <li>hdd: seagate barrcuda 1TB</li>
+                <li>PSU: TS Series 550W PSU</li>
             </ul>
+        </div>
     </body>
 </html>

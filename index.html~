@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>my website - hobbies</title>
+        <title>my website - home</title>
         <link rel="stylesheet" type="text/css" href="main.css">
         <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
     </head>
@@ -19,14 +19,9 @@
             </nav>
         </div>
         <div class="below-top-bar">
-            <h1>my hobbies
+            <h1>home
             </h1>
-            <p>these are the things I enjoy doing at home:</p>
-            <ul>
-                <li>Playing games</li>
-                <li>Watching YouTube</li>
-                <li>Experimenting with Linux on my laptop</li>
-				<li>I enjoy watching a series called unforgotten realms on twitch and <a href="https://www.youtube.com/watch?v=qMsmQfxM5Z0">YouTube</a></li>
-            </ul>
+            <p>This is my website I made to show case what I've learned in college
+            </p>
     </body>
 </html>
