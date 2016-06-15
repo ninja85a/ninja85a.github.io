@@ -72,6 +72,7 @@
 	    margin-right: auto;
 	    overflow: hidden;
 	    background-color: brown;
+	    width: 100%;
 	}
 	nav img {
 	    float: right;
@@ -94,6 +95,7 @@
 	}
 	.below-top-bar {
 	    background-color: azure;
+	    width: 99%
 	}
 	iframe {
 		width: 80%;

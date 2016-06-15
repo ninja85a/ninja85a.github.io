@@ -11,7 +11,6 @@
 		margin-right: auto;
 		float: none;
 		text-align: center;
-		width: 80%;
 	}
 	.topbar a {
 	    font-family: 'PT Sans Narrow';
@@ -24,6 +23,7 @@
 	    overflow: hidden;
 	    background-color: brown;
 	    text-align: center;
+	    width: 80%;
 	}
 	nav img {
 	    float: right;
@@ -72,6 +72,7 @@
 	    margin-right: auto;
 	    overflow: hidden;
 	    background-color: brown;
+	    width: 100%;
 	}
 	nav img {
 	    float: right;
@@ -94,6 +95,7 @@
 	}
 	.below-top-bar {
 	    background-color: azure;
+	    width: 100%
 	}
 	iframe {
 		width: 80%;
