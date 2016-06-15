@@ -1,8 +1,8 @@
 <html>
     <head>
-        <title>ninja85a's website - CV</title>
-            <link rel="stylesheet" type="text/css" href="main.css">
-            <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
+        <title>my website - contact</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
     </head>
     <body>
         <div class="topbar">
@@ -19,13 +19,13 @@
             </nav>
         </div>
         <div class="below-top-bar">
-            <h1>CV
+            <h1>contact
             </h1>
-            <p>enter your the details of the company and the job you think i would suit and i will send my CV if i like i would like to work there
+            <p>If you want to get in touch with me you can email me at <a href="mailto:lewisosullivan22@gmail.com">lewisosullivan22@gmail.com</a> and my twitter is <a href="https://twitter.com/ninja85a">ninja85a</a> and I can be usually found floating around the <a href="https://forum.teksyndicate.com">teksyndicate forums</a>
             </p>
-            <form id="contact_form">
+		<form id="contact_form" action="mailto:lewisosullivan22@gmail.com" method="POST" enctype="multipart/form-data">
 			<div class="row">
-				<label for="name">Your company:</label><br />
+				<label for="name">Your name:</label><br />
 				<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
 			</div>
 			<div class="row">
@@ -38,6 +38,7 @@
 			</div>
 				<input id="submit_button" type="submit" value="Send email" />
 		</form>
-        </div>    
+            <center><a class="twitter-timeline" data-dnt="true" href="https://twitter.com/ninja85a" data-widget-id="735047820881874944">Tweets by @ninja85a</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></center>
     </body>
 </html>
