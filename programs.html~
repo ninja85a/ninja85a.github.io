@@ -7,7 +7,7 @@
     <body>
         <div class="topbar">
             <nav>
-                <img src="logo%202.jpeg" alt="my logo"/>
+                <img src="logo%202.jpeg" alt="my logo" width="200" height="150"/>
                 <a href="index.html">home</a>
                 <a href="components.html">components</a>
                 <a href="cv.html">CV</a>

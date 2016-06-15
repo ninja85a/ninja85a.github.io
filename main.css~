@@ -60,7 +60,7 @@
 	    width: 99%;
 	}
 	.topbar {
-	    width: 100%;
+	    width: 99%;
 	}
 	.topbar a {
 	    font-family: 'PT Sans Narrow';
