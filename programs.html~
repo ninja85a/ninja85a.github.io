@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>ninja85a's website - pc build</title>
+        <title>my website - programs</title>
         <link rel="stylesheet" type="text/css" href="main.css">
         <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
     </head>
@@ -19,14 +19,9 @@
             </nav>
         </div>
         <div class="below-top-bar">
-            <h1>pc build
-            </h1>
-            <p>
-			This is the PC build I had to do for my level 2 computing course at Chesterfield College.
-            </p>
-			
-			<center><video controls width="75%">
-				<source src="videos/pc build.mp4" type="video/mp4">
-			</video></center>
+         <h1>My programs that I've made</h1>
+         <p>This is for the programs I've made</p>
+			<p>I've made a currency converter using VBA you can download it here <a href="programs/currency-converter.xls">Click Me</a></p>
+        </div>
     </body>
 </html>

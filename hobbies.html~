@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>ninja85a's website - pc build</title>
+        <title>my website - hobbies</title>
         <link rel="stylesheet" type="text/css" href="main.css">
         <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow' rel='stylesheet' type='text/css'>
     </head>
@@ -19,14 +19,16 @@
             </nav>
         </div>
         <div class="below-top-bar">
-            <h1>pc build
+            <h1>my hobbies
             </h1>
-            <p>
-			This is the PC build I had to do for my level 2 computing course at Chesterfield College.
-            </p>
-			
-			<center><video controls width="75%">
-				<source src="videos/pc build.mp4" type="video/mp4">
-			</video></center>
-    </body>
+            <p>these are the things I enjoy doing at home:</p>
+            <ul>
+                <li>Playing games</li>
+                <li>Watching YouTube</li>
+                <li>Experimenting with Linux on my laptop</li>
+				<li>I enjoy watching a series called unforgotten realms on twitch and <a href="https://www.youtube.com/watch?v=qMsmQfxM5Z0">YouTube</a></li>
+            </ul>
+            <iframe src="https://www.youtube.com/embed/U6FL0TRUW5g" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://player.twitch.tv/?video=v71871336" frameborder="0" scrolling="no"></iframe>
+		</div>
 </html>
